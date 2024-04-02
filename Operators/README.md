@@ -29,8 +29,8 @@ The third line has an integer,  (the percentage of  being added as tax).
 
 # Sample Input
 
-12.00
-20
+12.00\
+20\
 8
 
 # Sample Output
