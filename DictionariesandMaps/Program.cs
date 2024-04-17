@@ -1,6 +1,4 @@
-﻿using System.Linq;
-
-class Program
+﻿class Program
 {
     public static void Main(String[] args)
     {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Training\\Learn\\Angular\\DictionariesandMaps\\DictionariesandMaps.csproj": {}
+    "C:\\Training\\Learn\\Dotnet\\HackerRank-ProblemSolving\\DictionariesandMaps\\DictionariesandMaps.csproj": {}
   },
   "projects": {
-    "C:\\Training\\Learn\\Angular\\DictionariesandMaps\\DictionariesandMaps.csproj": {
+    "C:\\Training\\Learn\\Dotnet\\HackerRank-ProblemSolving\\DictionariesandMaps\\DictionariesandMaps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Training\\Learn\\Angular\\DictionariesandMaps\\DictionariesandMaps.csproj",
+        "projectUniqueName": "C:\\Training\\Learn\\Dotnet\\HackerRank-ProblemSolving\\DictionariesandMaps\\DictionariesandMaps.csproj",
         "projectName": "DictionariesandMaps",
-        "projectPath": "C:\\Training\\Learn\\Angular\\DictionariesandMaps\\DictionariesandMaps.csproj",
+        "projectPath": "C:\\Training\\Learn\\Dotnet\\HackerRank-ProblemSolving\\DictionariesandMaps\\DictionariesandMaps.csproj",
         "packagesPath": "C:\\Users\\anandhakrishnan.al\\.nuget\\packages\\",
-        "outputPath": "C:\\Training\\Learn\\Angular\\DictionariesandMaps\\obj\\",
+        "outputPath": "C:\\Training\\Learn\\Dotnet\\HackerRank-ProblemSolving\\DictionariesandMaps\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anandhakrishnan.al\\AppData\\Roaming\\NuGet\\NuGet.Config",
